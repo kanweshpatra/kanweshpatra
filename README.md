@@ -8,6 +8,9 @@
 
 <h3> 🛠 &nbsp;Tech Stack <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"></h3>
 
+Upcoming Graduate student at The University of Texas at Dallas | Major in Business Analytics. I`m Interested in BUsiness Analysis, Data Analysis, Machine Learning, Business Intelligence & Artificial Intelligence.
+Skills: Python - SQL - Data wrangling - Data Manipulation - Descriptive analytics - Data Visualization - Statistics - Probability - Machine Learning
+
 - 💻 &nbsp;
   ![PYTHON](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white")
