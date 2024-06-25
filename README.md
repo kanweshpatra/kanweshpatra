@@ -1,4 +1,12 @@
 ## Hi there 👋
+<div align=center>
+          <img alt="gif" align="center" src="https://github.com/Moataz-Elmesmary/Moataz-Elmesmary/blob/main/git.gif" width=300 height=300/>
+    </div>
+
+<div align=center>
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Kadi+Anwesh+Patra+%F0%9F%91%8B;ML+and+DL+Learner;Passionate+Data+Scientist;Python+language+Enthusiast" alt="Headline" />
+    </div>
+
 
 <!--
 **kanweshpatra/kanweshpatra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
