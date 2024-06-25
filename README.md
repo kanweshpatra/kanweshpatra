@@ -35,6 +35,11 @@
 <a href="mailto:moataz.mesmary@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-patrakanweshpatra-blue?style=flat-square&logo=gmail"></a><br>
 <a href="https://www.instagram.com/k.anwesh_patra/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-k.anwesh_patra-blue?style=flat-square&logo=instagram"></a>
 
+<hr>
+ 
+<img align='center'  height="70" alt="Thanks" width="100%" src="https://github.com/Moataz-Elmesmary/Moataz-Elmesmary/blob/main/Moataz.svg">
+
+
 
 <!--
 **kanweshpatra/kanweshpatra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
