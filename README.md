@@ -24,6 +24,18 @@
 - 🔧 &nbsp;
   ![PyCharm](https://img.shields.io/badge/-Pycharm-333333?style=flat&logo=Pycharm-code&logoColor=007ACC)
 
+
+<h3 align="left"><img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width=22 height=22>Connect with me:</h3> 
+
+[<img src='https://cdn3.iconfinder.com/data/icons/capsocial-round/500/linkedin-64.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/k-anwesh-patra /)
+ [<img src='https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/71-github-64.png' alt='github' height='40'>](https://github.com/kanweshpatra)
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
+
+
+<a href="mailto:moataz.mesmary@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-patrakanweshpatra-blue?style=flat-square&logo=gmail"></a><br>
+<a href="https://www.instagram.com/k.anwesh_patra/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-moatazelmesmary-blue?style=flat-square&logo=instagram"></a>
+
+
 <!--
 **kanweshpatra/kanweshpatra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
