@@ -7,8 +7,9 @@
     </div>
 
 
-Upcoming Graduate student at The University of Texas at Dallas | Major in Business Analytics. I`m Interested in BUsiness Analysis, Data Analysis, Machine Learning, Business Intelligence & Artificial Intelligence.
+Upcoming Graduate student at The University of Texas at Dallas | Major in Business Analytics. I`m Interested in Business Analysis, Data Analysis, Machine Learning, Business Intelligence & Artificial Intelligence.
 Skills: Python - SQL - Data wrangling - Data Manipulation - Descriptive analytics - Data Visualization - Statistics - Probability - Machine Learning
+
 
 <h3> 🛠 &nbsp;Tech Stack <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"></h3>
 
