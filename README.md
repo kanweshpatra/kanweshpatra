@@ -1,4 +1,3 @@
-## Hi there 👋
 <div align=center>
           <img alt="gif" align="center" src="https://github.com/Moataz-Elmesmary/Moataz-Elmesmary/blob/main/git.gif" width=300 height=300/>
     </div>
