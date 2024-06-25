@@ -6,10 +6,12 @@
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Kadi+Anwesh+Patra+%F0%9F%91%8B;ML+and+DL+Learner;Passionate+Data+Scientist;Python+language+Enthusiast" alt="Headline" />
     </div>
 
-<h3> 🛠 &nbsp;Tech Stack <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"></h3>
 
 Upcoming Graduate student at The University of Texas at Dallas | Major in Business Analytics. I`m Interested in BUsiness Analysis, Data Analysis, Machine Learning, Business Intelligence & Artificial Intelligence.
 Skills: Python - SQL - Data wrangling - Data Manipulation - Descriptive analytics - Data Visualization - Statistics - Probability - Machine Learning
+
+<h3> 🛠 &nbsp;Tech Stack <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"></h3>
+
 
 - 💻 &nbsp;
   ![PYTHON](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
